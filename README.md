@@ -1,7 +1,7 @@
 <!-- Replace the image link below with your own custom banner if you have one -->
 <p align="center">
   <img src="curious_girl.png" width="180" alt="Curious girl with specs" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=3670A0&vCenter=true&center=true&width=500&height=150&lines=HI;Hi+there+...;Welcome+to+my+profile!&repeat=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=3670A0&vCenter=true&center=true&width=500&height=150&multiline=true&lines=Hi+there,;Welcome+to+my+profile!!&repeat=false" alt="Typing Animation" />
 </p>
 
 ## About me
