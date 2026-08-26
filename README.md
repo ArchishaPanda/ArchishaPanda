@@ -1,6 +1,6 @@
 <!-- Replace the image link below with your own custom banner if you have one -->
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/5727017592334363080_0" width="180" alt="Curious girl with specs" />
+  <img src="curious_girl.png" width="180" alt="Curious girl with specs" />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=3670A0&vCenter=true&center=true&width=500&height=150&lines=HI;Hi+there+...;Welcome+to+my+profile!&repeat=true" alt="Typing Animation" />
 </p>
 
