@@ -76,3 +76,8 @@ Hi, I am Archisha, an Undergraduate Student pursuing Computer Science at IIIT-H.
 <p align="center">
   <em>Always happy to collaborate!</em>
 </p>
+
+## Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArchishaPanda&theme=github-dark&hide_border=true" />
+</p>
